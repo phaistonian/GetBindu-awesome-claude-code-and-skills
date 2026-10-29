@@ -1653,6 +1653,11 @@ Utilities and tools to enhance your Claude workflow.
   - Query databases and create/update pages and blocks via the Notion API
   - Supports a hosted remote endpoint and local stdio deployment
 
+- [TheBestCo/bestprice-mcp](https://github.com/TheBestCo/bestprice-mcp) ![Stars](https://img.shields.io/github/stars/TheBestCo/bestprice-mcp?style=flat-square)
+  - Official BestPrice.gr MCP server and Claude Code plugin for Greek price comparison
+  - Product search, current shop offers with delivered totals, and price history
+  - Keyless, read-only remote endpoint; Apache-2.0
+
 ### API & Integration Tools
 
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) ![Stars](https://img.shields.io/github/stars/router-for-me/CLIProxyAPI?style=flat-square)
